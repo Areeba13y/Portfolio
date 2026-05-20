@@ -130,9 +130,6 @@ Multi-lingual web app with real-time translation & speech support.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Areeba13y&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00AAFF&icon_color=AA55FF)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Areeba13y&theme=dark&hide_border=true&background=0D1117&ring=00AAFF&fire=AA55FF&currStreakLabel=00AAFF)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Areeba13y&theme=react-dark&bg_color=0D1117&color=00AAFF&line=AA55FF&point=FFFFFF&hide_border=true)
 
 ---
 
